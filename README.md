@@ -30,3 +30,8 @@ Consider this more of a wish-list at this  point in time ;)
 ----
 
 ![Wireframe view of pig](https://github.com/TalonBraveInfo/HogViewer/blob/master/preview/wireframe00.png?raw=true)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTalonBraveInfo%2FOpenHoW.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FTalonBraveInfo%2FOpenHoW?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTalonBraveInfo%2FOpenHoW.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FTalonBraveInfo%2FOpenHoW?ref=badge_large)
